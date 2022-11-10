@@ -1,5 +1,6 @@
 ---
 name: Checks
+# github actions setup
 
 on: [push]
 
